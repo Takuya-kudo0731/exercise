@@ -1,4 +1,3 @@
-
 output = "Hello,world!"
 name = input()
 name = name.lower()
